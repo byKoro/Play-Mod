@@ -1,5 +1,5 @@
-## <a href="#💬-english" style="color: white">💬 - English</a><br>
-## <a href="#💬-portugues" style="color: white">💬 - Português</a>
+## <a href="#english" style="color: white">💬 - English</a><br>
+## <a href="#portugues" style="color: white">💬 - Português</a>
 
 # <div style="text-shadow: 2px 2px 4px rgba(0, 0, 0, 1); text-align:center; font-size:50px"> Projeto Play-Mod (BETA)</div>
 ![logo](https://api.mcpedl.com/storage/submissions/186470/images/play-mod-beta---12010_2.png)
@@ -109,11 +109,14 @@ Sou um homem de 20 anos, nascido em 2003, tenho um sonho imenso de me tornar um 
     *   atalho para abrir a câmera sem o item. 
 - [ ]   Crafiting da câmera no survival.
 
-<p style="margin-bottom: 500px;"></p>
+<a href="#indice" style="position: absolute;right: 10px;background-color: white; color: black;border: 2px solid #fff;border-radius:15px;box-shadow: 2px 2px 4px rgba(0, 0, 0, 1)">Voltar ao início</a>
 
+<br>
 <div style="text-shadow: 2px 2px 4px rgba(0, 0, 0, 1); text-align:center; font-size:50px"> Play-Mod Project (BETA)</div>
 
-##  💬 English
+
+
+##  English
 
 ![logo](https://api.mcpedl.com/storage/submissions/186470/images/play-mod-beta---12010_2.png)
 An addon inspired by the ReplayMod for Minecraft Java, but made for Minecraft Bedrock.
