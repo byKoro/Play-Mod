@@ -1,0 +1,52 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"Koro"
+		],
+		"generated_with": {
+			"bridge": [
+				"2.6.1"
+			],
+			"dash": [
+				"0.10.10"
+			]
+		}
+	},
+	"header": {
+		"name": "§fPlay §aMod§f - RP",
+		"description": "pack.description",
+		"min_engine_version": [
+			1,
+			20,
+			0
+		],
+		"uuid": "1d987e0b-2ad9-4ea2-a21f-b97c2b04be0e",
+		"version": [
+			1,
+			0,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "4ae6f7f7-9857-47af-a1a3-e673cc01354c",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "da98e613-5a72-40ef-8a6d-f4b42cc9cac4",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}

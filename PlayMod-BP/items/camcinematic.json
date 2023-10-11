@@ -1,0 +1,28 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:item": {
+		"description": {
+			"identifier": "cam:camcinematic",
+			"category": "items"
+		},
+		"components": {
+			"minecraft:icon": {
+				"texture": "cam_camcinematic"
+			},
+			"minecraft:display_name": {
+				"value": "name.cinematic"
+			},
+			"minecraft:stacked_by_data": true,
+			"minecraft:max_stack_size": 1,
+			"minecraft:creative_category": {
+				"parent": "cam"
+			},
+			"minecraft:on_use": {
+				"on_use": {
+					"event": "protect",
+					"target": "self"
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"texture_data": {
+		"cam_cam": {
+			"textures": "textures/items/cam"
+		},
+		"cam_camcinematic": {
+			"textures": "textures/items/camcinematic"
+		}
+	}
+}

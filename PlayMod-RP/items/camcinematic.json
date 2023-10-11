@@ -1,0 +1,14 @@
+{
+  "format_version": "1.10.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "cam:camcinematic",
+      "category": "items",
+      "is_experimental": false
+    },
+    "components": {
+      "minecraft:icon": "cam_camcinematic",
+      "minecraft:hover_text_color": "dark_aqua"
+    }
+  }
+}
